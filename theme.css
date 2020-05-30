@@ -82,10 +82,15 @@ svg mask {
 }
 
 
+
 *, .bg-gray-light, .btn.hover, .btn:hover, .btn, .bg-blue-light, #mw-page-base, .vectorTabs, .vectorTabs a, #mw-head .vectorMenu h3, .vectorMenu *, .vectorTabs li, .vectorTabs *, .vectorTabs, .a-color-offset-background, .a-button, .whitecard {
     background-color: transparent !important;
     background: transparent;
     background-image: none;
+}
+
+.search-form {
+    background-color: #000000aa !important;
 }
 
 
@@ -133,6 +138,10 @@ background-color: transparent;
 }
 .chat-3bRxxu, .a-button, .a-button .a-button-inner{ 
 background: transparent !important;
+}
+
+#search-form {
+    background-color: #000000aa !important;
 }
 
 .rainbow-text {
