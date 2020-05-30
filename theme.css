@@ -1,0 +1,142 @@
+/* SHARP */
+.rainbow-text {
+  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+}
+
+/*
+* {
+    border-radius: 0px !important;
+}
+
+svg mask {
+    display: none;
+}
+*/
+
+.theme-dark {
+    --header-primary: #ffffff;
+    --header-secondary: #ffffff;
+    --text-normal: #ffffff;
+    --text-muted: #ffffff;
+    --text-link: #88c0d0;
+    --channels-default: #ffffff;
+    --interactive-normal: #ffffff;
+    --interactive-hover: #ffffff;
+    --interactive-active: #fff;
+    --interactive-muted: transparent;
+    --background-primary: transparent;
+    --background-secondary: transparent;
+    --background-secondary-alt: transparent;
+    --background-tertiary: transparent;
+    --background-accent: transparent;
+    --background-floating: transparent;
+    --background-mobile-primary: transparent;
+    --background-mobile-secondary: transparent;
+    --background-modifier-hover: transparent;
+    --background-modifier-active: transparent;
+    --background-modifier-selected: transparent;
+    --background-modifier-accent: transparent;
+    --background-mentioned: transparent;
+    --background-mentioned-hover: transparent;
+    --background-message-hover: transparent;
+    --elevation-stroke: transparent;
+    --elevation-low: transparent;
+    --elevation-medium: transparent;
+    --elevation-high: transparent;
+    --logo-primary: #0f0;
+    --guild-header-text-shadow: transparent;
+    --channeltextarea-background: transparent;
+    --activity-card-background: transparent;
+    --textbox-markdown-syntax: transparent;
+    --deprecated-card-bg: transparent;
+    --deprecated-card-editable-bg: transparent;
+    --deprecated-store-bg: transparent;
+    --deprecated-quickswitcher-input-background: transparent;
+    --deprecated-quickswitcher-input-placeholder: transparent;
+    --deprecated-text-input-bg: transparent;
+    --deprecated-text-input-border: transparent;
+    --deprecated-text-input-border-hover: transparent;
+    --deprecated-text-input-border-disabled: transparent;
+    --deprecated-text-input-prefix: transparent;
+}
+
+.inner-MADQqc {
+    background-color: #00000022 !important;  
+}
+
+.channelTextArea-rNsIhG, .searchBar-3dMhjb, .resultsGroup-r_nuzN {
+        background-color: #000000aa !important;
+}
+
+.userPopout-3XzG_A, .contextMenu-HLZMGh, .quickswitcher-3JagVE, .tooltip-2QfLtc  { 
+    background-color: #000000dd !important;
+}
+
+
+
+*, .social-count, .social-count:hover, .breadcrumb, strong, ::placeholder, .a-color-secondary, .a-color-primary, .a-color-base {
+    color: #ffffff !important;
+  opacity: 1;
+}
+
+
+*, .bg-gray-light, .btn.hover, .btn:hover, .btn, .bg-blue-light, #mw-page-base, .vectorTabs, .vectorTabs a, #mw-head .vectorMenu h3, .vectorMenu *, .vectorTabs li, .vectorTabs *, .vectorTabs, .a-color-offset-background, .a-button, .whitecard {
+    background-color: transparent !important;
+    background: transparent;
+    background-image: none;
+}
+
+
+
+html, body {
+    background-color: rgb(0,0,0,0.85) !important;
+    background-blend-mode: overlay;
+    background-image: url(https://cdn.discordapp.com/attachments/694633217050935373/699670399591645276/tumblr_pwgdd8hVGf1yt0azko1_640.png) !important;
+}
+
+.modeConnected-2IEL4z .name-3_Dsmg, .modeConnected-2IEL4z:hover .name-3_Dsmg, .modeSelected-1zApJ_:hover .name-3_Dsmg, .modeUnread-1zpFdA .name-3_Dsmg, .modeUnread-1zpFdA:hover .name-3_Dsmg, .notInteractive-YF5EXq.modeConnected-2IEL4z .name-3_Dsmg, .notInteractive-YF5EXq.modeSelected-1zApJ_ .name-3_Dsmg {
+    color: red !important;
+}
+
+.modeSelected-1zApJ_ .name-3_Dsmg {
+    color: blue !important;
+}
+
+.item-2hkk8m, .unread-3zKkbm, .ytp-swatch-background-color {
+    background-color: red !important;
+}
+
+.ytp-autohide .ytp-playlist-menu-button, .ytp-autohide .ytp-back-button, .ytp-autohide .ytp-title-channel, .ytp-autohide .ytp-title, .ytp-autohide .ytp-chrome-top .ytp-watch-later-button, .ytp-autohide .ytp-chrome-top .ytp-share-button, .ytp-autohide .ytp-chrome-top .ytp-copylink-button, .ytp-autohide:not(.ytp-cards-teaser-shown) .ytp-cards-button, .ytp-autohide .ytp-overflow-button, .ytp-autohide .ytp-chrome-bottom, .ytp-chrome-top[aria-hidden="true"], .ytp-chrome-bottom[aria-hidden="true"], .ytp-chrome-controls, .uploadModal-2ifh8j {
+    background-color: black !important;
+    transition: none !important;
+}
+
+.textArea-12jD-V {
+
+    color: turquoise;
+}
+
+.container-1r6BKw.themed-ANHk51, .bg-h5JY_x {
+background: transparent;
+background-color: transparent;   
+}
+
+.theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG { 
+    background: transparent;
+}
+
+
+.channelTextArea-rNsIhG { 
+ background-color: transparent;   
+}
+.chat-3bRxxu, .a-button, .a-button .a-button-inner{ 
+background: transparent !important;
+}
+
+.rainbow-text {
+  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+}
