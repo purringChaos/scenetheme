@@ -66,11 +66,20 @@ svg mask {
     background-color: #00000022 !important;  
 }
 
-.channelTextArea-rNsIhG, .searchBar-3dMhjb, .resultsGroup-r_nuzN {
+.ytd-watch-next-secondary-results-renderer {
+            background-color: #00000066 !important;
+}
+
+div#contents {
+               background-color: #00000088 !important;
+
+}
+
+.channelTextArea-rNsIhG, .searchBar-3dMhjb, .resultsGroup-r_nuzN, ytd-playlist-panel-renderer, div#info, div#meta {
         background-color: #000000aa !important;
 }
 
-.userPopout-3XzG_A, .contextMenu-HLZMGh, .quickswitcher-3JagVE, .tooltip-2QfLtc, .unread-1xRYoj, .menu-3sdvDG, .layer-v9HyYc { 
+.userPopout-3XzG_A, .contextMenu-HLZMGh, .quickswitcher-3JagVE, .tooltip-2QfLtc, .unread-1xRYoj, .menu-3sdvDG, .layer-v9HyYc{ 
     background-color: #000000dd !important;
 }
 
