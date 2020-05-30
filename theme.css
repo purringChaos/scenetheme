@@ -70,7 +70,7 @@ svg mask {
         background-color: #000000aa !important;
 }
 
-.userPopout-3XzG_A, .contextMenu-HLZMGh, .quickswitcher-3JagVE, .tooltip-2QfLtc  { 
+.userPopout-3XzG_A, .contextMenu-HLZMGh, .quickswitcher-3JagVE, .tooltip-2QfLtc, .unread-1xRYoj { 
     background-color: #000000dd !important;
 }
 
@@ -101,7 +101,7 @@ html, body {
     background-image: url(https://cdn.discordapp.com/attachments/694633217050935373/699670399591645276/tumblr_pwgdd8hVGf1yt0azko1_640.png) !important;
 }
 
-.modeConnected-2IEL4z .name-3_Dsmg, .modeConnected-2IEL4z:hover .name-3_Dsmg, .modeSelected-1zApJ_:hover .name-3_Dsmg, .modeUnread-1zpFdA .name-3_Dsmg, .modeUnread-1zpFdA:hover .name-3_Dsmg, .notInteractive-YF5EXq.modeConnected-2IEL4z .name-3_Dsmg, .notInteractive-YF5EXq.modeSelected-1zApJ_ .name-3_Dsmg {
+.modeConnected-2IEL4z .name-3_Dsmg, .modeConnected-2IEL4z:hover .name-3_Dsmg, .modeSelected-1zApJ_:hover .name-3_Dsmg, .modeUnread-1zpFdA .name-3_Dsmg, .modeUnread-1zpFdA:hover .name-3_Dsmg, .notInteractive-YF5EXq.modeConnected-2IEL4z .name-3_Dsmg, .notInteractive-YF5EXq.modeSelected-1zApJ_ .name-3_Dsmg, .text-2e2ZyG {
     color: red !important;
 }
 
@@ -140,8 +140,8 @@ background-color: transparent;
 background: transparent !important;
 }
 
-#search-form {
-    background-color: #000000aa !important;
+#search-form, .embedFull-2tM8-- {
+    background-color: #0000008f !important;
 }
 
 .rainbow-text {
