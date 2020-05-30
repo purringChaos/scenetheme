@@ -75,15 +75,27 @@ div#contents {
 
 }
 
-.channelTextArea-rNsIhG, .searchBar-3dMhjb, .resultsGroup-r_nuzN, ytd-playlist-panel-renderer, div#info, div#meta {
+.channelTextArea-rNsIhG, .searchBar-3dMhjb, .resultsGroup-r_nuzN, ytd-playlist-panel-renderer, div#info, div#meta, ._hh7,  ._4_j5, ._673w, ._6ynl, ._1enh, ._7q1s {
         background-color: #000000aa !important;
 }
 
-.userPopout-3XzG_A, .contextMenu-HLZMGh, .quickswitcher-3JagVE, .tooltip-2QfLtc, .unread-1xRYoj, .menu-3sdvDG, .layer-v9HyYc{ 
+.modal-3c3bKg .inner-1ilYF7 {
+        background-color: #000000ee !important;
+
+}
+
+.userPopout-3XzG_A, .contextMenu-HLZMGh, .quickswitcher-3JagVE, .tooltip-2QfLtc, .unread-1xRYoj, .menu-3sdvDG, .layer-v9HyYc { 
     background-color: #000000dd !important;
 }
 
 
+#matrixchat  {
+            background-color: #00000088 !important;
+}
+
+.mx_Toast_icon_verification_warning {
+    display:none;
+}
 
 *, .social-count, .social-count:hover, .breadcrumb, strong, ::placeholder, .a-color-secondary, .a-color-primary, .a-color-base {
     color: #ffffff !important;
