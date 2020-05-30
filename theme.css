@@ -75,7 +75,7 @@ div#contents {
 
 }
 
-.channelTextArea-rNsIhG, .searchBar-3dMhjb, .resultsGroup-r_nuzN, ytd-playlist-panel-renderer, div#info, div#meta, ._hh7,  ._4_j5, ._673w, ._6ynl, ._1enh, ._7q1s, ytd-mini-guide-renderer, ytd-masthead, yt-chip-cloud-chip-renderer, ytd-guide-renderer {
+.channelTextArea-rNsIhG, .searchBar-3dMhjb, .resultsGroup-r_nuzN, ytd-playlist-panel-renderer, div#info, div#meta, ._hh7,  ._4_j5, ._673w, ._6ynl, ._1enh, ._7q1s, ytd-mini-guide-renderer, ytd-masthead, yt-chip-cloud-chip-renderer, ytd-guide-renderer, table.infobox {
         background-color: #000000aa !important;
 }
 
@@ -117,7 +117,7 @@ div#contents {
 
 
 html, body {
-    background-color: rgb(0,0,0,0.85) !important;
+    background-color: rgb(0,0,0,0.80) !important;
     background-blend-mode: overlay;
     background-image: url(https://cdn.discordapp.com/attachments/694633217050935373/699670399591645276/tumblr_pwgdd8hVGf1yt0azko1_640.png), url(https://raw.githubusercontent.com/purringChaos/scenetheme/master/tumblr_pwgdd8hVGf1yt0azko1_640.png) !important;
 }
